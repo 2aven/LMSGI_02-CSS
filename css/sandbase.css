@@ -18,11 +18,10 @@ div {
   margin-top: 25px;
 }
 h1, h3 {
-  background-color:#C48C68;
   color:#54C0C4;
   text-shadow: 3px 2px #4B7678;
 }
-h4 {
+h1, h4 {
   background-color:#C48C68;
 }
 p {
