@@ -9,7 +9,7 @@ div {
   margin-top: 25px;
   max-width: 660px;
 }
-div.centrat {
+div.central {
   text-align: center;
 }
 table {
@@ -21,11 +21,11 @@ th, td {
   vertical-align: center;
   padding: 1%;
 }
-tr:nth-child(even){background-color: #A49592}
-tr:nth-child(odd){background-color: #A27C71}
-h1, h3, h4 {
+tr:nth-child(odd){background-color: #A49592}
+tr:nth-child(even){background-color: #A27C71}
+h1, h2, h3, h4 {
   color:#5AACC1;
-  text-shadow: 3px 2px #283B42;
+  text-shadow: 2px 2px #283B42;
 }
 h1, h4 {
   background-color:#A27C71;
