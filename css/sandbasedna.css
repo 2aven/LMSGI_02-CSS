@@ -1,0 +1,50 @@
+body {
+  background-color:#756363;
+}
+div {
+  position: static;
+  margin: auto;
+  height: 90%;
+  width: 80%;
+  margin-top: 25px;
+  max-width: 660px;
+}
+table {
+  width: 80%;
+  margin: auto;
+}
+th, td {
+  text-align: center;
+  vertical-align: center;
+  padding: 1%;
+}
+tr:nth-child(even){background-color: #A49592}
+tr:nth-child(odd){background-color: #A27C71}
+h1, h3, h4 {
+  color:#5AACC1;
+  text-shadow: 3px 2px #283B42;
+}
+h1, h4 {
+  background-color:#A27C71;
+}
+h1 {
+  text-align:center;
+}
+p {
+  font-family: Arial;
+  font-size: 14px;
+  font-style: italic;
+}
+a:link {
+  color:#A27C71;
+}
+a:visited {
+  color:#283B42;
+}
+a:hover {
+  color:#5AACC1;
+}
+ul {
+  font-family: Arial;
+  background-color: #A49592;
+}
