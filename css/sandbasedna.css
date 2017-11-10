@@ -48,3 +48,7 @@ ul {
   font-family: Arial;
   background-color: #A49592;
 }
+img {
+    display: block;
+    margin: 0 auto;
+}
