@@ -3,6 +3,7 @@ body {
 }
 table {
   width: 60%;
+  margin: auto;
 }
 th, td {
   text-align: center;
@@ -37,5 +38,5 @@ a:hover {
   color:#C4A48F;
 }
 ul {
-  text-shadow: 3px 2px #4B7678;
+  background-color: #C4A48F;
 }
