@@ -1,0 +1,41 @@
+body {
+  background-color:"#785D4B"
+}
+table {
+  width: 60%;
+}
+th, td {
+  text-align: center;
+  vertical-align: center;
+}
+tr:nth-child(even){background-color: #C4A48F}
+tr:nth-child(odd){background-color: #C48C68}
+div {
+  height: 90%;
+  width: 80%;
+  margin-top: 25px;
+}
+h1, h3 {
+  background-color:"#C48C68";
+  color:"#54C0C4";
+  text-shadow: 3px 2px "#4B7678";
+}
+h4 {
+  background-color:"#C48C68";
+}
+p {
+  font-family:"Arial";
+  color:"#54C0C4";
+}
+a:link {
+  color:"#C48C68";
+}
+a:visited {
+  color:"#4B7678";
+}
+a:hover {
+  color:"#C4A48F";
+}
+ul {
+  text-shadow: 3px 2px "#4B7678";
+}
