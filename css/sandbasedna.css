@@ -9,6 +9,9 @@ div {
   margin-top: 25px;
   max-width: 660px;
 }
+div.centrat {
+  text-align: center;
+}
 table {
   width: 80%;
   margin: auto;
@@ -47,8 +50,4 @@ a:hover {
 ul {
   font-family: Arial;
   background-color: #A49592;
-}
-img {
-    display: block;
-    margin: 0 auto;
 }
