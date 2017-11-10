@@ -26,7 +26,9 @@ h1, h4 {
   background-color:#C48C68;
 }
 p {
-  font-family:Arial;
+  font-family: Arial;
+  font-size: 14px;
+  font-style: italic;
 }
 a:link {
   color:#C48C68;
@@ -38,5 +40,6 @@ a:hover {
   color:#54C0C4;
 }
 ul {
+  font-family: Arial;
   background-color: #C4A48F;
 }
