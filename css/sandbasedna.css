@@ -8,7 +8,7 @@ div {
   max-width: 660px;
 }
 div.central {text-align: center;}
-h1, h3, h4 {
+h1, h3, h4, th {
   color:#5AACC1;
   text-shadow: 2px 2px #283B42;
 }
@@ -29,11 +29,15 @@ table {
 th, td {
   text-align: center;
   vertical-align: center;
-  padding: 1%;
+}
+td {padding: 1%;}
+th {
+  padding: 3%;
+  font-size:  1.4em;
+  font-style: italic;
 }
 tr:nth-child(odd)  {background-color: #A49592}
 tr:nth-child(even) {background-color: #A27C71}
-th {font-style:italic;}
 ul {
   font-family: Arial;
   background-color: #A49592;
