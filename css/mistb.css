@@ -8,12 +8,6 @@ div {
   max-width: 660px;
 }
 div.central {text-align: center;}
-h1, h3, h4, th {
-  color:#5AACC1;
-  text-shadow: 2px 2px #283B42;
-}
-h1, h4 {background-color:#A27C71;}
-h1 {text-align:center;}
 p {
   font-family: Arial;
   font-size: 14px;
@@ -38,6 +32,12 @@ th {
 }
 tr:nth-child(odd)  {background-color: #A49592}
 tr:nth-child(even) {background-color: #A27C71}
+h1, h3, h4, th {
+  color:#5AACC1;
+  text-shadow: 2px 2px #283B42;
+}
+h1, h4 {background-color:#A27C71;}
+h1 {text-align:center;}
 ul {
   font-family: Arial;
   background-color: #A49592;
